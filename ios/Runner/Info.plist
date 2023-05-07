@@ -2,16 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<String>Pick your favorite place image</String>
-	<key>NSCameraUsageDescription</key>
-	<String>Pick your favorite place image</String>
-	<key>NSMicrophoneUsageDescription</key>
-	<String>Pick your favorite place image</String>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Favorite Place Flutter App</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pick Image for your favorite place</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Will user your camera to take Image for your favorite place</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Will user your phone microphone when you take Image for your favorite place</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
